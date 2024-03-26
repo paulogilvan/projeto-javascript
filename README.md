@@ -15,5 +15,3 @@
 Link do projeto: <a href="https://paulogilvan.github.io/projeto-javascript/">Pizzaria</a>
 
 <img src="https://github.com/paulogilvan/projeto-javascript/blob/master/images/image-pizzas.png?raw=true" />
-
-<img src="https://github.com/paulogilvan/projeto-javascript/blob/master/images/image-pizza-select.png?raw=true" />
